@@ -4,7 +4,7 @@ title: Plucking Feathers
 date: 2015-05-19T05:59:06+00:00
 author: Patrick
 layout: post
-guid: http://www.patrixarts.com/?p=125
+guid: https://patrixmedia.github.io/?p=125
 permalink: /plucking-feathers/
 categories:
   - Ideas

@@ -4,7 +4,7 @@ title: When Reality Intrudes
 date: 2015-06-16T05:01:58+00:00
 author: Patrick
 layout: post
-guid: http://www.patrixarts.com/?p=156
+guid: https://patrixmedia.github.io/?p=156
 permalink: /when-reality-intrudes/
 categories:
   - Friends

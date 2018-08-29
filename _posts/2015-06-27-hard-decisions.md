@@ -4,7 +4,7 @@ title: Hard Decisions
 date: 2015-06-27T06:28:29+00:00
 author: Patrick
 layout: post
-guid: http://www.patrixarts.com/?p=159
+guid: https://patrixmedia.github.io/?p=159
 permalink: /hard-decisions/
 categories:
   - Philosophy

@@ -4,7 +4,7 @@ title: 3 Muscles of Creativity
 date: 2016-01-30T06:00:45+00:00
 author: Patrick
 layout: post
-guid: http://www.patrixarts.com/?p=412
+guid: https://patrixmedia.github.io/?p=412
 permalink: /?p=412
 categories:
   - Whim

@@ -4,7 +4,7 @@ title: A Conversation with My Sister
 date: 2015-05-25T05:19:56+00:00
 author: Patrick
 layout: post
-guid: http://www.patrixarts.com/?p=144
+guid: https://patrixmedia.github.io/?p=144
 permalink: /a-conversation-with-my-sister/
 categories:
   - Philosophy

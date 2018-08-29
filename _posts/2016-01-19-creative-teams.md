@@ -4,7 +4,7 @@ title: Creative Teams
 date: 2016-01-19T04:42:38+00:00
 author: Patrick
 layout: post
-guid: http://www.patrixarts.com/?p=395
+guid: https://patrixmedia.github.io/?p=395
 permalink: /creative-teams/
 categories:
   - Managing

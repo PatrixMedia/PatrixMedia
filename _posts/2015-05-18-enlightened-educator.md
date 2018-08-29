@@ -4,7 +4,7 @@ title: Enlightened Educator
 date: 2015-05-18T05:02:49+00:00
 author: Patrick
 layout: post
-guid: http://www.patrixarts.com/?p=123
+guid: https://patrixmedia.github.io/?p=123
 permalink: /enlightened-educator/
 categories:
   - Ideas

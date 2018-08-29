@@ -4,7 +4,7 @@ title: Contact
 date: 2016-02-20T18:04:28+00:00
 author: Patrick
 layout: page
-guid: http://www.patrixarts.com/?page_id=416
+guid: https://patrixmedia.github.io/?page_id=416
 vantage_metaslider_slider:
   - ""
 vantage_metaslider_slider_stretch:

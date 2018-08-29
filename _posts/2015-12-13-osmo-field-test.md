@@ -4,7 +4,7 @@ title: Osmo Field Test
 date: 2015-12-13T21:26:43+00:00
 author: Patrick
 layout: post
-guid: http://www.patrixarts.com/?p=364
+guid: https://patrixmedia.github.io/?p=364
 permalink: /osmo-field-test/
 categories:
   - Tech

@@ -4,7 +4,7 @@ title: Living with Ants
 date: 2015-05-15T03:33:18+00:00
 author: Patrick
 layout: post
-guid: http://www.patrixarts.com/?p=105
+guid: https://patrixmedia.github.io/?p=105
 permalink: /living-with-ants/
 categories:
   - Philosophy

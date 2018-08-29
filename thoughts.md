@@ -4,7 +4,7 @@ title: Thoughts
 date: 2016-01-19T04:07:52+00:00
 author: Patrick
 layout: page
-guid: http://www.patrixarts.com/?page_id=392
+guid: https://patrixmedia.github.io/?page_id=392
 vantage_metaslider_slider:
   - ""
 vantage_metaslider_slider_stretch:
@@ -27,19 +27,19 @@ panels_data:
         
         <ul>
           <li>
-            <a href="http://www.patrixarts.com/the-best-bathroom-experience-ever/">The Best Bathroom Experience Ever!</a>
+            <a href="https://patrixmedia.github.io/the-best-bathroom-experience-ever/">The Best Bathroom Experience Ever!</a>
           </li>
           <li>
-            <a href="http://www.patrixarts.com/gop-humped-by-orange-gorilla/">GOP Humped by Orange Gorilla</a>
+            <a href="https://patrixmedia.github.io/gop-humped-by-orange-gorilla/">GOP Humped by Orange Gorilla</a>
           </li>
           <li>
-            <a href="http://www.patrixarts.com/what-if/">What if&#8230;</a>
+            <a href="https://patrixmedia.github.io/what-if/">What if&#8230;</a>
           </li>
           <li>
-            <a href="http://www.patrixarts.com/gopro-underwater-dye/">GoPro Underwater Dye</a>
+            <a href="https://patrixmedia.github.io/gopro-underwater-dye/">GoPro Underwater Dye</a>
           </li>
           <li>
-            <a href="http://www.patrixarts.com/creative-teams/">Creative Teams</a>
+            <a href="https://patrixmedia.github.io/creative-teams/">Creative Teams</a>
           </li>
         </ul>
       </div>

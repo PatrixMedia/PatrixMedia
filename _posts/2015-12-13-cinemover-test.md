@@ -4,7 +4,7 @@ title: CineMover Test
 date: 2015-12-13T21:25:26+00:00
 author: Patrick
 layout: post
-guid: http://www.patrixarts.com/?p=362
+guid: https://patrixmedia.github.io/?p=362
 permalink: /cinemover-test/
 categories:
   - Tech

@@ -4,7 +4,7 @@ title: First GlideCam Test (in wind)
 date: 2015-12-13T21:19:15+00:00
 author: Patrick
 layout: post
-guid: http://www.patrixarts.com/?p=356
+guid: https://patrixmedia.github.io/?p=356
 permalink: /first-glidecam-test-in-wind/
 categories:
   - Tech

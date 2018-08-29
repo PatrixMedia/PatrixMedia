@@ -4,7 +4,7 @@ title: GoPro Underwater (bowl) Test
 date: 2015-12-13T21:27:41+00:00
 author: Patrick
 layout: post
-guid: http://www.patrixarts.com/?p=366
+guid: https://patrixmedia.github.io/?p=366
 permalink: /gopro-underwater-bowl-test/
 categories:
   - Tech
