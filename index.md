@@ -4,9 +4,13 @@ title: Home Page
 date: 2015-12-12T16:50:28+00:00
 author: Patrick
 layout: page
-guid: http://www.patrixarts.com/home-page/
+<<<<<<< HEAD
+guid: https://patrixmedia.github.io/home-page/
+=======
+guid: https://patrixmedia.github.io/index
+>>>>>>> 19b42ea473cdb61035afbc18b697c305181cbaa6
 panels_data:
-  - 'a:3:{s:7:"widgets";a:2:{i:0;a:3:{s:9:"slider_id";s:2:"17";s:5:"title";s:0:"";s:11:"panels_info";a:6:{s:5:"class";s:17:"MetaSlider_Widget";s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"12671498-3a04-4c72-84f1-5e744ba61a96";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:1;a:14:{s:8:"features";a:3:{i:0;a:8:{s:15:"container_color";s:7:"#efefef";s:4:"icon";s:14:"icomoon-images";s:10:"icon_color";s:7:"#00bcff";s:10:"icon_image";i:0;s:5:"title";s:3:"Art";s:4:"text";s:0:"";s:9:"more_text";s:0:"";s:8:"more_url";s:26:"http://patrixarts.com/art/";}i:1;a:8:{s:15:"container_color";s:7:"#efefef";s:4:"icon";s:14:"icomoon-pencil";s:10:"icon_color";s:7:"#00bcff";s:10:"icon_image";i:0;s:5:"title";s:6:"Design";s:4:"text";s:0:"";s:9:"more_text";s:0:"";s:8:"more_url";s:29:"http://patrixarts.com/design/";}i:2;a:8:{s:15:"container_color";s:7:"#efefef";s:4:"icon";s:13:"icomoon-share";s:10:"icon_color";s:7:"#00bcff";s:10:"icon_image";i:0;s:5:"title";s:10:"Technology";s:4:"text";s:0:"";s:9:"more_text";s:0:"";s:8:"more_url";s:27:"http://patrixarts.com/tech/";}}s:5:"fonts";a:4:{s:13:"title_options";a:5:{s:4:"font";s:7:"default";s:4:"size";s:4:"32px";s:9:"size_unit";s:2:"px";s:5:"color";b:0;s:24:"so_field_container_state";s:4:"open";}s:12:"text_options";a:5:{s:4:"font";s:7:"default";s:4:"size";s:2:"px";s:9:"size_unit";s:2:"px";s:5:"color";b:0;s:24:"so_field_container_state";s:6:"closed";}s:17:"more_text_options";a:5:{s:4:"font";s:7:"default";s:4:"size";s:2:"px";s:9:"size_unit";s:2:"px";s:5:"color";b:0;s:24:"so_field_container_state";s:6:"closed";}s:24:"so_field_container_state";s:4:"open";}s:15:"container_shape";s:5:"round";s:14:"container_size";s:5:"100px";s:19:"container_size_unit";s:2:"px";s:9:"icon_size";s:4:"46px";s:14:"icon_size_unit";s:2:"px";s:7:"per_row";i:3;s:10:"responsive";b:1;s:10:"title_link";b:1;s:9:"icon_link";b:1;s:12:"_sow_form_id";s:13:"566c6dc1ec30c";s:10:"new_window";b:0;s:11:"panels_info";a:7:{s:5:"class";s:33:"SiteOrigin_Widget_Features_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"c9d76d8a-ae44-4bde-b4da-99aa4dec4505";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:2:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:4:{s:13:"bottom_margin";s:3:"0px";s:7:"padding";s:3:"0px";s:11:"row_stretch";s:14:"full-stretched";s:10:"background";s:7:"#e5e5e5";}}i:1;a:2:{s:5:"cells";i:1;s:5:"style";a:4:{s:13:"bottom_margin";s:3:"0px";s:6:"gutter";s:3:"0px";s:7:"padding";s:4:"20px";s:11:"row_stretch";s:14:"full-stretched";}}}s:10:"grid_cells";a:2:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";i:1;}}}'
+  - 'a:3:{s:7:"widgets";a:2:{i:0;a:3:{s:9:"slider_id";s:2:"17";s:5:"title";s:0:"";s:11:"panels_info";a:6:{s:5:"class";s:17:"MetaSlider_Widget";s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"12671498-3a04-4c72-84f1-5e744ba61a96";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:1;a:14:{s:8:"features";a:3:{i:0;a:8:{s:15:"container_color";s:7:"#efefef";s:4:"icon";s:14:"icomoon-images";s:10:"icon_color";s:7:"#00bcff";s:10:"icon_image";i:0;s:5:"title";s:3:"Art";s:4:"text";s:0:"";s:9:"more_text";s:0:"";s:8:"more_url";s:26:"https://patrixmedia.github.io/art/";}i:1;a:8:{s:15:"container_color";s:7:"#efefef";s:4:"icon";s:14:"icomoon-pencil";s:10:"icon_color";s:7:"#00bcff";s:10:"icon_image";i:0;s:5:"title";s:6:"Design";s:4:"text";s:0:"";s:9:"more_text";s:0:"";s:8:"more_url";s:29:"https://patrixmedia.github.io/design/";}i:2;a:8:{s:15:"container_color";s:7:"#efefef";s:4:"icon";s:13:"icomoon-share";s:10:"icon_color";s:7:"#00bcff";s:10:"icon_image";i:0;s:5:"title";s:10:"Technology";s:4:"text";s:0:"";s:9:"more_text";s:0:"";s:8:"more_url";s:27:"http://patrixarts.com/tech/";}}s:5:"fonts";a:4:{s:13:"title_options";a:5:{s:4:"font";s:7:"default";s:4:"size";s:4:"32px";s:9:"size_unit";s:2:"px";s:5:"color";b:0;s:24:"so_field_container_state";s:4:"open";}s:12:"text_options";a:5:{s:4:"font";s:7:"default";s:4:"size";s:2:"px";s:9:"size_unit";s:2:"px";s:5:"color";b:0;s:24:"so_field_container_state";s:6:"closed";}s:17:"more_text_options";a:5:{s:4:"font";s:7:"default";s:4:"size";s:2:"px";s:9:"size_unit";s:2:"px";s:5:"color";b:0;s:24:"so_field_container_state";s:6:"closed";}s:24:"so_field_container_state";s:4:"open";}s:15:"container_shape";s:5:"round";s:14:"container_size";s:5:"100px";s:19:"container_size_unit";s:2:"px";s:9:"icon_size";s:4:"46px";s:14:"icon_size_unit";s:2:"px";s:7:"per_row";i:3;s:10:"responsive";b:1;s:10:"title_link";b:1;s:9:"icon_link";b:1;s:12:"_sow_form_id";s:13:"566c6dc1ec30c";s:10:"new_window";b:0;s:11:"panels_info";a:7:{s:5:"class";s:33:"SiteOrigin_Widget_Features_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"c9d76d8a-ae44-4bde-b4da-99aa4dec4505";s:5:"style";a:2:{s:7:"padding";s:3:"0px";s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:2:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:4:{s:13:"bottom_margin";s:3:"0px";s:7:"padding";s:3:"0px";s:11:"row_stretch";s:14:"full-stretched";s:10:"background";s:7:"#e5e5e5";}}i:1;a:2:{s:5:"cells";i:1;s:5:"style";a:4:{s:13:"bottom_margin";s:3:"0px";s:6:"gutter";s:3:"0px";s:7:"padding";s:4:"20px";s:11:"row_stretch";s:14:"full-stretched";}}}s:10:"grid_cells";a:2:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";i:1;}}}'
 vantage_panels_no_legacy:
   - 'true'
 vantage_metaslider_slider:
@@ -41,7 +45,7 @@ siteorigin_page_settings:
                         <div class='metaslider-ui-inner'>
                           <button class='update-image image-button' data-button-text='Update slide image' title='Update slide image' data-slide-id='351' data-attachment-id='351'> 
                           
-                          <div class='thumb' style='background-image: url(http://www.patrixarts.com/wp-content/uploads/2015/12/GnaDunes-150x150.jpg)'>
+                          <div class='thumb' style='background-image: url(https://patrixmedia.github.io/wp-content/uploads/2015/12/GnaDunes-150x150.jpg)'>
                           </div></button>
                         </div>
                       </td>
@@ -146,7 +150,7 @@ siteorigin_page_settings:
                         <div class='metaslider-ui-inner'>
                           <button class='update-image image-button' data-button-text='Update slide image' title='Update slide image' data-slide-id='223' data-attachment-id='223'> 
                           
-                          <div class='thumb' style='background-image: url(http://www.patrixarts.com/wp-content/uploads/2015/12/Huasna-Prius-150x150.jpg)'>
+                          <div class='thumb' style='background-image: url(https://patrixmedia.github.io/wp-content/uploads/2015/12/Huasna-Prius-150x150.jpg)'>
                           </div></button>
                         </div>
                       </td>
@@ -251,7 +255,7 @@ siteorigin_page_settings:
                         <div class='metaslider-ui-inner'>
                           <button class='update-image image-button' data-button-text='Update slide image' title='Update slide image' data-slide-id='383' data-attachment-id='383'> 
                           
-                          <div class='thumb' style='background-image: url(http://www.patrixarts.com/wp-content/uploads/2015/12/Shelayne-12-150x150.jpg)'>
+                          <div class='thumb' style='background-image: url(https://patrixmedia.github.io/wp-content/uploads/2015/12/Shelayne-12-150x150.jpg)'>
                           </div></button>
                         </div>
                       </td>
@@ -356,7 +360,7 @@ siteorigin_page_settings:
                         <div class='metaslider-ui-inner'>
                           <button class='update-image image-button' data-button-text='Update slide image' title='Update slide image' data-slide-id='195' data-attachment-id='195'> 
                           
-                          <div class='thumb' style='background-image: url(http://www.patrixarts.com/wp-content/uploads/2015/12/Pismi-pier-1-150x150.jpg)'>
+                          <div class='thumb' style='background-image: url(https://patrixmedia.github.io/wp-content/uploads/2015/12/Pismi-pier-1-150x150.jpg)'>
                           </div></button>
                         </div>
                       </td>
@@ -461,7 +465,7 @@ siteorigin_page_settings:
                         <div class='metaslider-ui-inner'>
                           <button class='update-image image-button' data-button-text='Update slide image' title='Update slide image' data-slide-id='322' data-attachment-id='322'> 
                           
-                          <div class='thumb' style='background-image: url(http://www.patrixarts.com/wp-content/uploads/2015/12/Gna-3-1-150x150.jpg)'>
+                          <div class='thumb' style='background-image: url(https://patrixmedia.github.io/wp-content/uploads/2015/12/Gna-3-1-150x150.jpg)'>
                           </div></button>
                         </div>
                       </td>
