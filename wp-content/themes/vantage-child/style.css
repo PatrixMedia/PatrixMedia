@@ -1,0 +1,22 @@
+/*
+Theme Name: Vantage Premium Child
+Template: vantage
+Author: Child Theme Configurator
+Version: 1.0.1429638488
+Updated: 2015-04-21 17:48:08
+*/
+
+@charset "UTF-8";
+
+#masthead .hgroup {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.entry-content h3 {
+    font-size: 30px;
+}
+
+#secondary .widget .widget-title, #footer-widgets .widget .widget-title {
+font-size: 30px;
+}
