@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2018-08-30 16:31:36
 ---
+[et_pb_section bb_built="1"][et_pb_row][et_pb_column type="4_4"][et_pb_text]
 <h1><strong>Help renovate </strong>Robert E. Kennedy Library</h1>
 The need for a renovated library is great. Our students deserve a library that is modern, flexible and embodies the Learn by Doing spirit of Cal Poly. <strong>Your investment in Kennedy Library will touch every single student at Cal Poly. </strong>
 
@@ -31,3 +32,5 @@ Briana Martenies
 Director of External Relations
 <a href="mailto:bmarteni@calpoly.edu">bmarteni@calpoly.edu</a>
 (805) 756-7549
+
+[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]
