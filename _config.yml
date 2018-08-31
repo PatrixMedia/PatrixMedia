@@ -4,3 +4,5 @@ name: Kennedy Library Renovation
 description: >
   Robert E. Kennedy Library, Cal Poly
   Renovation Updates
+
+theme: jekyll-theme-slate
