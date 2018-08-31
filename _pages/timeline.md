@@ -15,4 +15,4 @@ The outcomes of this phase include identifying and setting the vision, goals, an
 The current state of the library is assessed by architects, strategists and stakeholders. Based on that information, the future needs of the campus community are being assessed.
 A detailed sustainability analysis and engineering studies show potential for the future libary.
 
-[timeline-expressh orizontal="1" items="4" slide_distance="4"]
+[timeline-express horizontal="1" items="4" slide_distance="4"]
