@@ -9,46 +9,16 @@ permalink: >
 published: true
 post_date: 2018-07-02 14:41:07
 ---
-[et_pb_section bb_built="1" admin_label="section" _builder_version="3.0.47" next_background_color="rgba(230,236,226,0.7)"][et_pb_row make_fullwidth="on" _builder_version="3.15"][et_pb_column type="4_4"][et_pb_text _builder_version="3.15"]
-<h1><strong>PHASE II </strong>– design and construction</h1>
+[et_pb_section fb_built="1" admin_label="section" _builder_version="3.0.47" custom_padding="133.828px|0px|0|0px|false|false"][et_pb_row make_fullwidth="on" _builder_version="3.15"][et_pb_column type="4_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text _builder_version="3.15"]<h1><strong>PHASE II </strong>– design and construction</h1>
 <h2>to start in 2020</h2>
 Phase I, completed in May 2018, focused on understanding the needs of the campus. Phase II guides the project forward through from planning, to construction, and all the way to reopening. This process will begin upon the allocation of funding from the State of California.
-
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row make_fullwidth="on" _builder_version="3.15"][et_pb_column type="4_4"][et_pb_image src="https://renovation-staging.lib.calpoly.edu/wp-content/uploads/2018/09/timeline_headlines.png" _builder_version="3.15"]
-[/et_pb_image][/et_pb_column][/et_pb_row][et_pb_row admin_label="row" make_fullwidth="on" _builder_version="3.15" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="4_4"][et_pb_text _builder_version="3.15" background_size="initial" background_position="top_left" background_repeat="repeat"]
-<h1><strong>PHASE I </strong>– FEASIBILITY STUDY</h1>
+[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row make_fullwidth="on" _builder_version="3.15"][et_pb_column type="4_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_image src="https://renovation-staging.lib.calpoly.edu/wp-content/uploads/2018/09/timeline_headlines.png" _builder_version="3.15"][/et_pb_image][/et_pb_column][/et_pb_row][et_pb_row make_fullwidth="on" admin_label="row" _builder_version="3.15" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="4_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text _builder_version="3.15" background_size="initial" background_position="top_left" background_repeat="repeat"]<h1><strong>PHASE I </strong>– FEASIBILITY STUDY</h1>
 <h2>October 2017–May 2018</h2>
 The outcomes of this phase include identifying and setting the vision, goals, and success metrics of the renovation project.
 The current state of the library is assessed by architects, strategists and stakeholders. Based on that information, the future needs of the campus community are being assessed.
 A detailed sustainability analysis and engineering studies show potential for the future library.
-
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row make_fullwidth="on" _builder_version="3.15"][et_pb_column type="4_4"][et_pb_image src="https://renovation-staging.lib.calpoly.edu/wp-content/uploads/2017/12/timeline_info_V2-07.png" _builder_version="3.15"]
-[/et_pb_image][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.15"][et_pb_column type="4_4"][et_pb_text _builder_version="3.15"]
-
-[et id="1029"]
-
-[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section bb_built="1" _builder_version="3.15" background_color="rgba(230,236,226,0.7)" custom_padding="55px|0px|55px|0px|false|false" prev_background_color="#ffffff"][et_pb_row make_fullwidth="on" _builder_version="3.15"][et_pb_column type="3_4"][et_pb_text _builder_version="3.15"]
-<h1>The strategists: <strong>brightspot</strong></h1>
-[/et_pb_text][et_pb_text _builder_version="3.15"]
-
-Robert E. Kennedy Library was working with brightspot strategy to reimagine places, rethink services, and redesign organizations so that people have remarkable experiences in the workplace, at cultural institutions, and on campuses.
-
-[/et_pb_text][et_pb_button button_url="http://www.brightspotstrategy.com/" url_new_window="on" button_text="brightspot website" _builder_version="3.15" custom_button="on" button_bg_color="#ffffff" button_font="||||||||"]
-[/et_pb_button][/et_pb_column][et_pb_column type="1_4"][et_pb_image src="https://renovation-staging.lib.calpoly.edu/wp-content/uploads/2017/10/brightspot.jpg" _builder_version="3.15"]
-[/et_pb_image][/et_pb_column][/et_pb_row][et_pb_row make_fullwidth="on" _builder_version="3.15"][et_pb_column type="3_4"][et_pb_text _builder_version="3.15"]
-<h1>The architects: <strong>BNIM</strong></h1>
-[/et_pb_text][et_pb_text _builder_version="3.15"]
-
-Robert E. Kennedy Library was partnering with the architecture firm BNIM, an innovative leader in designing beautiful, integrated living environments that inspire change and enhance the human condition.
-
-[/et_pb_text][et_pb_button button_url="http://bnim.com" url_new_window="on" button_text="BNIM website" _builder_version="3.15" custom_button="on" button_bg_color="#ffffff" button_font="||||||||"]
-[/et_pb_button][/et_pb_column][et_pb_column type="1_4"][et_pb_image src="https://renovation-staging.lib.calpoly.edu/wp-content/uploads/2017/10/bnim.png" _builder_version="3.15"]
-[/et_pb_image][/et_pb_column][/et_pb_row][et_pb_row make_fullwidth="on" _builder_version="3.15"][et_pb_column type="3_4"][et_pb_text _builder_version="3.15"]
-<h1>The client: <strong>kennedy library, cal poly</strong></h1>
-[/et_pb_text][et_pb_text _builder_version="3.15"]
-
-We are a Learn by Doing library. We help every member of the Cal Poly community engage in open and informed inquiry, and contribute through creation, innovation, and collaboration, to the quality of life of our community.
-
-[/et_pb_text][et_pb_button button_url="http://lib.calpoly.edu" url_new_window="on" button_text="Library website" _builder_version="3.15" custom_button="on" button_bg_color="#ffffff" button_font="||||||||"]
-[/et_pb_button][/et_pb_column][et_pb_column type="1_4"][et_pb_image src="https://renovation-staging.lib.calpoly.edu/wp-content/uploads/2017/10/rekl.jpg" _builder_version="3.15"]
-[/et_pb_image][/et_pb_column][/et_pb_row][/et_pb_section]
+[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row make_fullwidth="on" _builder_version="3.15"][et_pb_column type="4_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_image src="https://renovation-staging.lib.calpoly.edu/wp-content/uploads/2017/12/timeline_info_V2-07.png" _builder_version="3.15"][/et_pb_image][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.15"][et_pb_column type="4_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text _builder_version="3.15"][et id="1029"]
+[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built="1" _builder_version="3.15" background_color="rgba(230,236,226,0.7)" custom_padding="55px|0px|55px|0px|false|false"][et_pb_row make_fullwidth="on" _builder_version="3.15"][et_pb_column type="3_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text _builder_version="3.15"]<h1>The strategists: <strong>brightspot</strong></h1>
+[/et_pb_text][et_pb_text _builder_version="3.15"]<p>Robert E. Kennedy Library worked with <g class="gr_ gr_3 gr-alert gr_spell gr_inline_cards gr_disable_anim_appear ContextualSpelling" id="3" data-gr-id="3"><g class="gr_ gr_4 gr-alert gr_gramm gr_inline_cards gr_disable_anim_appear Grammar only-ins doubleReplace replaceWithoutSep" id="4" data-gr-id="4">brightspot</g></g> strategy to reimagine places, rethink services, and redesign organizations so that people have remarkable experiences in the workplace, at cultural institutions, and on campuses.</p>[/et_pb_text][et_pb_button button_url="http://www.brightspotstrategy.com/" url_new_window="on" button_text="brightspot website" _builder_version="3.15" custom_button="on" button_bg_color="#ffffff" button_font="||||||||"][/et_pb_button][/et_pb_column][et_pb_column type="1_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_image src="https://renovation-staging.lib.calpoly.edu/wp-content/uploads/2017/10/brightspot.jpg" _builder_version="3.15"][/et_pb_image][/et_pb_column][/et_pb_row][et_pb_row make_fullwidth="on" _builder_version="3.15"][et_pb_column type="3_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text _builder_version="3.15"]<h1>The architects: <strong>BNIM</strong></h1>
+[/et_pb_text][et_pb_text _builder_version="3.15"]<p>Robert E. Kennedy Library partnered with the architecture firm BNIM, an innovative leader in designing beautiful, integrated living environments that inspire change and enhance the human condition.</p>[/et_pb_text][et_pb_button button_url="http://bnim.com" url_new_window="on" button_text="BNIM website" _builder_version="3.15" custom_button="on" button_bg_color="#ffffff" button_font="||||||||"][/et_pb_button][/et_pb_column][et_pb_column type="1_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_image src="https://renovation-staging.lib.calpoly.edu/wp-content/uploads/2017/10/bnim.png" _builder_version="3.15"][/et_pb_image][/et_pb_column][/et_pb_row][et_pb_row make_fullwidth="on" _builder_version="3.15"][et_pb_column type="3_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text _builder_version="3.15"]<h1>The client: <strong>kennedy library, cal poly</strong></h1>
+[/et_pb_text][et_pb_text _builder_version="3.15"]<p>We are a Learn by Doing library. We help every member of the Cal Poly community engage in open and informed inquiry, and contribute through creation, innovation, and collaboration, to the quality of life of our community.</p>[/et_pb_text][et_pb_button button_url="http://lib.calpoly.edu" url_new_window="on" button_text="Library website" _builder_version="3.15" custom_button="on" button_bg_color="#ffffff" button_font="||||||||"][/et_pb_button][/et_pb_column][et_pb_column type="1_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_image src="https://renovation-staging.lib.calpoly.edu/wp-content/uploads/2017/10/rekl.jpg" _builder_version="3.15"][/et_pb_image][/et_pb_column][/et_pb_row][/et_pb_section]
