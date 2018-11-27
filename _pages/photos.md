@@ -11,7 +11,7 @@ post_date: 2017-11-13 13:48:39
 ---
 [et_pb_section bb_built="1"][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.15"]
 
-<iframe src="https://player.vimeo.com/video/301931244" width="640" height="564" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="640" height="564" src="https://player.vimeo.com/video/303131150" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
 <iframe src="https://player.vimeo.com/video/301949212" width="640" height="564" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
